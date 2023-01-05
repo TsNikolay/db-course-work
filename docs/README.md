@@ -3,24 +3,14 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [2022] [Ткаченко Олександр]"
+footer: "ECL 2.0 Licensed | Copyright © [2022] [Царик Микола]"
 ---
 
-**Виконали:**
-
-_студент 2-го курсу, групи ІМ-11_<span padding-right:5em></span> **[Максим ЧИРКОВ](https://t.me/maxchyrkov)**
-
-_студент 2-го курсу, групи ІМ-11_<span padding-right:5em></span> **[Олександр ТКАЧЕНКО](https://t.me/alexander_pixel)**
-
-_студент 2-го курсу, групи ІМ-11_<span padding-right:5em></span> **[Олег МАРТИНЕНКО](https://t.me/olegoofy)**
+**Виконав:**
 
 _студент 2-го курсу, групи ІМ-11_<span padding-right:5em></span> **[Микола ЦАРИК](https://t.me/Ts4ryk)**
 
-_студент 2-го курсу, групи ІМ-11_<span padding-right:5em></span> **[Владислав ШЕВИРЬОВ](https://t.me/o_g_vlad)**
 
-_студент 2-го курсу, групи ІМ-11_<span padding-right:5em></span> **[Нікіта НЕСТЕРОВ](https://t.me/kamesoed)**
-
-_студент 2-го курсу, групи ІМ-11_<span padding-right:5em></span> **[Вадим УЛАНОВСЬКИЙ](https://t.me/sol_n_tse)**
 
 **Керівник**
 
