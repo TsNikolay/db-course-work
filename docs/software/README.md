@@ -7,6 +7,8 @@
 - SQL-скрипт для створення на початкового наповнення бази даних
 - RESTfull сервіс для управління даними
 
+## SQL-скрипт
+
 ```
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
