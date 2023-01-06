@@ -2,11 +2,11 @@
 
 ## Демонстрація всіх об'єктів (GET)
 ### Запит і результат
-![getAll](https://user-images.githubusercontent.com/90026719/210907582-6656cea3-8e6d-4369-b37c-2f405a4b4f52.png)
+![getAll](https://user-images.githubusercontent.com/90026719/210910113-7f9f74f3-7c0e-42df-a2c0-93f7c6df4991.png)
 
 ## Демонстрація одного об'єкта по id (GET)
 ### Запит і результат
-![get](https://user-images.githubusercontent.com/90026719/210907747-e4a99478-fb55-4938-bf9e-aa1b4835891c.png)
+![get](https://user-images.githubusercontent.com/90026719/210910159-af76568d-7a3a-4b2b-b283-6dcd3d06db02.png)
 
 ## Додавання нового об'єкта по id (POST)
 ### Запит
